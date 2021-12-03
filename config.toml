@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Liste"
+title = "thoughts"
 disableKinds = ["section", "categories", "tags"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -29,10 +29,10 @@ disableHugoGeneratorInject = true
     disable = true
 
 [Author]
-  name = "Liste"
+  name = "TheDen"
 
 [params]
-  description = "Minimalistic Hugo blogging theme"
+  description = ""
   author = ""
   copyright = ""
   logo = ""
@@ -43,7 +43,7 @@ disableHugoGeneratorInject = true
   github = ""
   facebook = ""
   og_image = ""
-  sitename = "Liste"
+  sitename = "Thoughts"
   twitter = ""
 
 [permalinks]
