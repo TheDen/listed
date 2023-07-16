@@ -1,4 +1,3 @@
-
 {{ $img := imageConfig (add "/static" (.Destination | safeURL)) }}
 <img
   src="{{ .Destination | safeURL }}"
@@ -9,5 +8,3 @@
   height="{{ $img.Height }}"
   class="full-width"
 />
-
-
